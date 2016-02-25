@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./orationesrecogno04ciceuoft/orationesrecogno04ciceuoft_0087.png"; bbox 0 0 1716 2662; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 287 859 1276 1049">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 287 859 1276 1049">
+     <span class='ocr_line' id='line_1_1' title="bbox 287 859 1276 926; baseline -0.005 -1"><span class='ocrx_word' id='word_1_1' title='bbox 287 862 377 926; x_wconf 84' lang='lat' dir='ltr'><strong>M.</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 417 863 695 924; x_wconf 85' lang='lat' dir='ltr'>TVLLI</span> <span class='ocrx_word' id='word_1_3' title='bbox 754 859 1276 923; x_wconf 82' lang='lat' dir='ltr'>CICERONIS</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 311 994 1252 1049; baseline -0.007 -1"><span class='ocrx_word' id='word_1_4' title='bbox 311 1000 451 1048; x_wconf 84' lang='lat' dir='ltr'><strong>PRO</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 491 1000 552 1049; x_wconf 82' lang='lat' dir='ltr'><strong>A.</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 594 998 922 1047; x_wconf 77' lang='lat' dir='ltr'><strong>CAECINA</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 962 994 1252 1043; x_wconf 78' lang='lat' dir='ltr'><strong>ORATIO</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 167 2360 478 2383">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 167 2360 478 2383">
+     <span class='ocr_line' id='line_1_3' title="bbox 167 2360 478 2383; baseline -0.013 0"><span class='ocrx_word' id='word_1_8' title='bbox 167 2361 230 2383; x_wconf 73' lang='lat' dir='ltr'>CXC.</span> <span class='ocrx_word' id='word_1_9' title='bbox 247 2361 314 2382; x_wconf 78' lang='lat' dir='ltr'><strong>PRO</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 331 2360 478 2382; x_wconf 71' lang='lat' dir='ltr'>CAECINA</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./orationesrecogno04ciceuoft_0219.png"; bbox 0 0 1716 2662; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 173 922 1285 993">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 173 922 1285 993">
+     <span class='ocr_line' id='line_1_1' title="bbox 173 922 1285 993; baseline 0.007 -10"><span class='ocrx_word' id='word_1_1' title='bbox 173 932 179 937; x_wconf 74' lang='grc'><em>’</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 289 922 376 984; x_wconf 87' lang='grc' dir='ltr'>Μ.</span> <span class='ocrx_word' id='word_1_3' title='bbox 429 925 706 987; x_wconf 85' lang='lat' dir='ltr'><strong>TVLLI</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 763 927 1285 993; x_wconf 84' lang='lat' dir='ltr'>CICERONIS</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 347 1057 1239 1110">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 347 1057 1239 1110">
+     <span class='ocr_line' id='line_1_2' title="bbox 347 1057 1239 1110; baseline 0.006 -6"><span class='ocrx_word' id='word_1_5' title='bbox 347 1057 487 1106; x_wconf 89' lang='lat' dir='ltr'>PRO</span> <span class='ocrx_word' id='word_1_6' title='bbox 528 1057 582 1106; x_wconf 90' lang='lat' dir='ltr'>L.</span> <span class='ocrx_word' id='word_1_7' title='bbox 624 1058 911 1108; x_wconf 83' lang='lat' dir='ltr'><strong>FLACCO</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 952 1061 1239 1110; x_wconf 84' lang='lat' dir='ltr'><strong>ORATIO</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

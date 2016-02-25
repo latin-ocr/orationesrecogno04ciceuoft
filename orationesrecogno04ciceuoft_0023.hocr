@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./orationesrecogno04ciceuoft_0023.png"; bbox 0 0 1716 2662; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 210 860 1231 924">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 210 860 1231 924">
+     <span class='ocr_line' id='line_1_1' title="bbox 210 860 1231 924; baseline -0.002 -2"><span class='ocrx_word' id='word_1_1' title='bbox 210 862 302 924; x_wconf 85' lang='lat' dir='ltr'>M.</span> <span class='ocrx_word' id='word_1_2' title='bbox 359 862 636 922; x_wconf 70' lang='lat' dir='ltr'>TVLLI</span> <span class='ocrx_word' id='word_1_3' title='bbox 709 860 1231 922; x_wconf 73' lang='lat' dir='ltr'>CICERONIS</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 240 1011 1201 1073">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 240 1011 1201 1073">
+     <span class='ocr_line' id='line_1_2' title="bbox 240 1011 1201 1073; baseline -0.002 -14"><span class='ocrx_word' id='word_1_4' title='bbox 240 1012 376 1059; x_wconf 86' lang='lat' dir='ltr'>PRO</span> <span class='ocrx_word' id='word_1_5' title='bbox 420 1013 467 1060; x_wconf 83' lang='lat' dir='ltr'>P.</span> <span class='ocrx_word' id='word_1_6' title='bbox 509 1013 874 1073; x_wconf 62' lang='lat' dir='ltr'>QYINCTIO</span> <span class='ocrx_word' id='word_1_7' title='bbox 915 1011 1201 1057; x_wconf 70' lang='lat' dir='ltr'><strong>ORATIO</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
